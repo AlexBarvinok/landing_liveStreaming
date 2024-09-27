@@ -1,0 +1,23 @@
+{
+  "name": "maket3",
+  "version": "1.0.0",
+  "description": "landing",
+  "main": "index.html",
+  "scripts": {
+    "scss:watch": "scss --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBarvinok/landing_liveStreaming.git"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBarvinok/landing_liveStreaming/issues"
+  },
+  "homepage": "https://github.com/AlexBarvinok/landing_liveStreaming#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "scss": "^0.2.4"
+  }
+}
