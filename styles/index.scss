@@ -1,4 +1,7 @@
-$blue: blue;
+// @use 'variables';
+@use 'variables' as *;
+@use 'importer';
+
 body {
-  background-color: $blue;
+  background-color: $color_blue;
 }
