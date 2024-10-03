@@ -6,6 +6,7 @@ body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
 }
+
 h1,
 h2,
 h3,
@@ -36,6 +37,10 @@ blockquote {
 hr {
   margin: 0;
   width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .container {
